@@ -1,0 +1,28 @@
+p.daa{
+    font-size: 50px;
+    color: rgb(66, 243, 66);
+    background-color: rgb(134, 88, 88);margin-left: 300px;margin-right: 300px;padding: 50px;
+    text-align: center 
+}
+P.NOP{
+    color: black;
+    font-size: 20px;
+    background-color: rgb(189, 236, 167);margin-left: 400px; padding: 50px;
+}
+img{
+    float: left; background-color: rgb(189, 236, 167); margin-block-end: 10px;
+}
+head.fox{
+    background-color: grey;
+}
+body.fox{
+    background-color: grey;
+}
+p.No{ 
+    
+    color: black;
+    font-size: 20px;
+    background-color: rgb(189, 236, 167); margin-right: 400px; padding: 80px;
+
+}
+
